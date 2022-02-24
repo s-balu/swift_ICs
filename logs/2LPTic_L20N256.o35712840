@@ -1,0 +1,14 @@
+mpirun -np 4 ./2LPTic L20_N256.param
+
+======================================================================================
+                  Resource Usage on 2022-02-23 19:34:54:
+   Job Id:             35712840.gadi-pbs
+   Project:            iv23
+   Exit Status:        0
+   Service Units:      0.03
+   NCPUs Requested:    4                      NCPUs Used: 4               
+                                           CPU Time Used: 00:00:06                                   
+   Memory Requested:   48.0GB                Memory Used: 1.38GB          
+   Walltime requested: 00:05:00            Walltime Used: 00:00:04        
+   JobFS requested:    100.0MB                JobFS used: 0B              
+======================================================================================

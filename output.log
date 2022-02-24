@@ -1,0 +1,103 @@
+found 89 pairs of values in input spectrum table
+
+Normalization of spectrum in file:  Sigma8 = 40582
+Normalization adjusted to  Sigma8=0.815   (Normfac=4.0332e-10)
+
+Growth factor=78.6137
+Task=0 Local_nx=32
+Task=1 Local_nx=32
+Task=2 Local_nx=32
+Task=3 Local_nx=32
+524288 particles on task=0  (slabs=32)
+524288 particles on task=1  (slabs=32)
+524288 particles on task=2  (slabs=32)
+524288 particles on task=3  (slabs=32)
+
+Total number of particles  = 0002097152
+
+
+Computing displacement fields...
+vel_prefac= 5586.59, vel_prefac2= 11173.2,  hubble_a=55866 fom=0.999999 fac=0.176086
+Finished seed table...
+
+allocated 12.9492 Mbyte on Task 0
+Initialised displacement arrays...
+Done Zeldovich.
+
+allocated 2.1582 Mbyte on Task 0
+
+ Allocating memory for vector number ..0
+
+allocated 2.1582 Mbyte on Task 0
+
+ Allocating memory for vector number ..1
+
+allocated 2.1582 Mbyte on Task 0
+
+ Allocating memory for vector number ..2
+
+allocated 2.1582 Mbyte on Task 0
+
+ Allocating memory for vector number ..3
+
+allocated 2.1582 Mbyte on Task 0
+
+ Allocating memory for vector number ..4
+
+allocated 2.1582 Mbyte on Task 0
+
+ Allocating memory for vector number ..5
+
+ Begin Fourier transforming displacement gradient 
+Fourier transforming displacement gradient...
+ Done Fourier transforming displacement gradient number  0
+
+ Done Fourier transforming displacement gradient number  1
+
+ Done Fourier transforming displacement gradient number  2
+
+ Done Fourier transforming displacement gradient number  3
+
+ Done Fourier transforming displacement gradient number  4
+
+ Done Fourier transforming displacement gradient number  5
+Fourier transforming second order source...Done.
+
+ Done the next Fourier transform in ...i
+Fourier transforming displacements, axis 0.
+Fourier transforming displacements, axis 1.
+Fourier transforming displacements, axis 2.
+
+ Reading out displacements
+
+Maximum displacement: 0.0937815 gadget units, mean displacement= 0.0563106
+
+Maximum 2nd order displacement: 0.00218443 gadget units, mean absolute value = 0.000587346
+
+Maximum speed: 554.526 gadget units, and mean speed = 208.45
+
+writing initial conditions... 
+Written header information (Task 0)
+Written units information (Task 0)
+Writing position on Task 0
+Writing position on Task 1
+Writing position on Task 3
+Writing position on Task 2
+Writing velocities on Task 0
+Writing velocities on Task 3
+Writing velocities on Task 1
+Writing particle IDs on Task 0
+Writing particle IDs on Task 3
+Writing velocities on Task 2
+Writing particle IDs on Task 1
+Writing masses on Task 0
+Writing masses on Task 3
+Writing masses on Task 1
+Writing particle IDs on Task 2
+Writing masses on Task 2
+done with writing initial conditions.
+
+IC's generated.
+
+Initial scale factor = 0.01
+
